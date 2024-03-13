@@ -7,6 +7,7 @@ Welcome to the djangoCMS project. Here are some links to help you getting starte
  - The [home page of djangoCMS](https://django-cms.org)
  - The official [djangoCMS documentation](https://docs.django-cms.org)
  - djangoCMS [Slack Channel](http://www.django-cms.org/slack)
+ - djangoCMS [Discord Server](https://discord.gg/Hf3gcx7XdS)
  - Get going within 10 minutes with the [django-cms-quickstart](https://github.com/django-cms/django-cms-quickstart) project
  - In case you would like to contribute, take a look at our [contribution guide](https://docs.django-cms.org/en/latest/contributing/how-to-contribute.html)
  
