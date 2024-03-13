@@ -9,8 +9,7 @@ Welcome to the djangoCMS project. Here are some links to help you getting starte
  - djangoCMS [Slack Channel](http://www.django-cms.org/slack)
  - Get going within 10 minutes with the [django-cms-quickstart](https://github.com/django-cms/django-cms-quickstart) project
  - In case you would like to contribute, take a look at our [contribution guide](https://docs.django-cms.org/en/latest/contributing/how-to-contribute.html)
- - Checkout our [Community Hero Program](https://www.django-cms.org/en/become-community-hero/)
-
+ 
 Don't hesitate to take a look at our repositories! Happy contributing :tada:
 
 ## Code of Conduct
